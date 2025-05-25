@@ -1,0 +1,5 @@
+En esta practica he tenido que realizar una pagina web responsive con boostrap,jQuery y PHP.
+Para hacer la pagina he utilizado InfinityFree ya que es una pagina que hemos usado durate el curso y me resulta bastante comodo y facil hacer una pagina desde ahí ya que puedes crear el host y la base de datos.
+Mi pagina web se llama SeriesView y he puesto 6 series muy conocidades y que me gustan a mí personalmente, también les he puesto las temporadas que tienen cada una los episodios la edad recomendada para poder ver la serie separadas por colores más o menos adaptados para la edad correspondiente una imagen y un boton desplegable de más información en el que si clicas sale la descripcion de la serie, también le he puesto un buscador en el que al poner una letra del titulo busca las series que hayan por esa letra.
+
+El link de mi hosting de pagina web es: http://miniproyecto.kesug.com/
